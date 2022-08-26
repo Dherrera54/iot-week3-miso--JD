@@ -1,0 +1,19 @@
+CupCarbon v. IoT 5.0
+----------------
+name:test-cupcarbon-wifi
+zoom:5
+centerposition_la:4.608425226416512
+centerposition_lo:-74.05413329601288
+map:0
+display_details:true
+draw_radio_links:true
+draw_sensor_arrows:true
+radio_links_color:4
+draw_marker_arrows:false
+display_rl_distance:false
+propagation:false
+display_marker_distance:false
+display_radio_messages:true
+draw_script_file_name:true
+display_print_messages:true
+display_all_routes:false
